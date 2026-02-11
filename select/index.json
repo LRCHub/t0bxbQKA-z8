@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Smash Out!!",
+  "base_artist": "MY FIRST STORY",
+  "createdAt": "2026-02-11T08:52:33.987333Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Smash Out!! 武道館LIVE Ver.",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/01_Smash_Out!!_武道館LIVE_Ver._MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Smash Out!!",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/02_Smash_Out!!_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Smash Out!!",
+      "artist": "MY FIRST STORY",
+      "has_synced": false,
+      "path": "select/pl_01_Smash_Out!!_MY_FIRST_STORY.txt"
+    }
+  ]
+}
